@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-badge&logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=Csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=Csharp&logoColor=white"></br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-badge&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-badge&logo=unity&logoColor=white">
@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-badge&logo=ros&logoColor=white">
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=react&logoColor=black"></br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-badge&logo=amazon-ec2&logoColor=white">
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-badge&logo=qt&logoColor=white">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-badge&logo=tensorflow&logoColor=white"></br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=react&logoColor=black">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white">
@@ -93,7 +93,7 @@
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-badge&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"></br>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
       <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-badge&logo=amazon-ec2&logoColor=white">
