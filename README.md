@@ -1,42 +1,166 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HELLO%20WORLD)
+<div align=center>
+  <h3>👋 안녕하세요, BYEONGKUK입니다!</h3>
 
-### 👋 안녕하세요, BYEONGKUK입니다!
+  <p>
+    <strong>스마트홈</strong>, <strong>스마트시티</strong>, <strong>로보틱스</strong>에 관심이 있는 개발자입니다.</br>
+    새로운 기술을 배우고 실현하는 과정에서 즐거움을 느끼며,</br>
+    현실 문제를 해결하는 <strong>데이터 기반 솔루션</strong> 구축에 열정을 가지고 있습니다.</br>
+  </p>
 
-스마트홈 및 스마트시티에 관심이 있는 개발자입니다.
+</div>
 
-새로운 기술을 배우고 익히는 걸 좋아합니다.
+---
 
-### 메인 기술 스택
+<div align=center>
+  <h2>🚀 주요 프로젝트</h2>
+
+  <div>
+    <h3>
+      <a href="https://github.com/byeongkukoh/SnapSpace">SnapSpace</a> : 2025.10.06. ~ 2025.11.20.
+    </h3>
+    <p>
+      스마트폰 기반 제조현장 3D 스캔 솔루션</br>
+      (삼성전자 생산기술연구소 기업연계 프로젝트)
+    </p>
+    <div>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=Csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-badge&logo=unity&logoColor=white">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=android&logoColor=white">
+    </div>
+  </div>
+
+  <br>
+
+  <div>
+    <h3>
+      <a href="https://github.com/byeongkukoh/Wall-E">Wall E (移)</a> : 2025.08.25. ~ 2025.09.29.
+    </h3>
+    <p>
+      자율주행 기반 실내공간 가벽 배치 솔루션
+    </p>
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-badge&logo=ros&logoColor=white">
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-badge&logo=amazon-ec2&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-badge&logo=linux&logoColor=black">
+      <img src="https://img.shields.io/badge/Gazebo-D04A34?style=flat-badge&logo=ros&logoColor=white">
+    </div>
+  </div>
+
+  <br>
+
+  <div>
+    <h3>
+      <a href="https://github.com/byeongkukoh/PaDoc">파닥: 파킨슨닥터</a> : 2025.07.07. ~ 2025.08.18.
+    </h3>
+    <p>
+      음성데이터 기반 파킨슨병 진단 및 파킨슨 환자들의 음성트레이닝을 돕는 솔루션 
+    </p>
+    <div>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-badge&logo=qt&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-badge&logo=amazon-ec2&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-badge&logo=linux&logoColor=black">
+    </div>
+  </div>
+
+  <br>
+
+  <div>
+    <h3>
+      <a href="https://github.com/byeongkukoh/Exprover">무인 탐사 로봇 Exprover</a> : 2025.05.09. ~ 2025.05.28.
+    </h3>
+    <p>
+      다양한 센서를 기반으로, 실시간 환경 모니터링과 원격 제어가 가능한 다기능 탐사 시스템 구축 
+    </p>
+    <div>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-badge&logo=amazon-ec2&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+    </div>
+  </div>
+</div>
+
+---
+
+<div align=center>
+
+## 🧑‍💻 Primary Tech Stack
+
+### 🖥️ Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🚀 주요 프로젝트
+### 🎨 Frontend
 
-- **[무인 탐사 로봇 Exprover](https://github.com/byeongkukoh/Exprover)** : 2025.05.09. ~ 2025.05.28.
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 
-  - 다양한 센서를 기반으로, 실시간 환경 모니터링과 원격 제어가 가능한 다기능 탐사 시스템 구축  
-    ![C++](https://img.shields.io/badge/C++-00599C?style=flat-badge&logo=cplusplus&logoColor=white)
-    ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-    ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
-    ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### 🌐 Backend & API
 
-- **[TSK-Multi_Data_Selector](https://github.com/byeongkukoh/TSK-Multi_Data_Selector)** : 2024.08.20. ~ 2024.09.22.
-  - 파이썬 기반의 GUI 프로그램으로, 센서를 통해 수집한 데이터에서 원하는 값만 추출하는 자동화 프로그램  
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white)
-    ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-badge&logo=pandas&logoColor=white)
-    ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-badge&logo=qt&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 📱 Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+
+### 🤖 Robotics & Embedded
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-D04A34?style=for-the-badge&logo=ros&logoColor=white)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+### 🛠 DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+---
+
+<div align=center>
 
 ## 🧩 Algorithm
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=byeongkukoh)
 ![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=byeongkukoh&theme=warm)
+
+</div>
+
+---
+
+<div align=center>
 
 ## 📊 GitHub STATS
 
@@ -45,65 +169,78 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongkukoh&layout=compact&theme=white)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=byeongkukoh&theme=flat&rank=-?)
 
-## 🧑‍💻 Tech Stack
+</div>
 
-### 🖥️ Language
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align=center>
+
+## ⚙️ Experienced / Familiar With
+
+### 🖥️ Languages
+
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### 🌐 Web Developments
+### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📱 Mobile Developments
+### 🌐 Backend & API
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+
+### 🧠 AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+
+
+### 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-### 📡 Embedded System & IoT
+### 🤖 Robotics & Embedded
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 
-### ☁️ Database & Cloud
+### 💾 Database & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🛠️ Tools & IDEs
+### 🛠 DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ArduinoIDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+---
+
+<div align=center>
 
 ## 📫 CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg&style=for-the-badge)](https://www.linkedin.com/in/devkuk/)
 [![Tistory Blog](https://img.shields.io/badge/Tistory-e06653?logo=tistory&style=for-the-badge)](https://devkuk.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/byeongkukoh)
+
+</div>
